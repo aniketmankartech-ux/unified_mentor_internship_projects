@@ -1,0 +1,5 @@
+APEX PARKING RECEIPT
+Vehicle: MH12BC1234
+Type: SUV (Priority)
+Hours: 1.0
+Amount: ₹150.00

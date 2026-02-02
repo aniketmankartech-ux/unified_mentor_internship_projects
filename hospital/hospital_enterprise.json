@@ -1,0 +1,46 @@
+{
+    "staff": {
+        "admin": {
+            "pin": "888df25ae35772424a560c7152a1de794440e0ea5cfee62828333a456a506e05",
+            "role": "admin",
+            "name": "Head Admin",
+            "id": "admin"
+        },
+        "rec01": {
+            "pin": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+            "role": "receptionist",
+            "name": "Sarah",
+            "id": "rec01"
+        },
+        "rec02": {
+            "name": "Alexa",
+            "pin": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+            "role": "receptionist"
+        }
+    },
+    "doctors": {
+        "Dr. Khanna": {
+            "dept": "Cardiology",
+            "done": 0,
+            "q": []
+        },
+        "Dr. Gupta": {
+            "dept": "Radiology",
+            "done": 1,
+            "q": [
+                {
+                    "name": "Aniket",
+                    "age": 25,
+                    "phone": "8082032481",
+                    "priority": "Emergency",
+                    "time": "17:34"
+                }
+            ]
+        }
+    },
+    "appointments": [],
+    "stats": {
+        "total": 0,
+        "emergency": 0
+    }
+}

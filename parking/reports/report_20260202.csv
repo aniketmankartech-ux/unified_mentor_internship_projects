@@ -1,0 +1,4 @@
+vehicle,type,category,hours,amount,date
+MH12AB1234,Bike,Regular,1,20,2026-02-02
+MH12DE1234,SUV,Emergency,1,0,2026-02-02
+MH12BC1234,SUV,Priority,1,150,2026-02-02

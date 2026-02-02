@@ -1,0 +1,114 @@
+{
+    "users": {
+        "admin": {
+            "pin": "1234",
+            "role": "admin"
+        },
+        "staff": {
+            "pin": "1111",
+            "role": "staff"
+        }
+    },
+    "slots": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null,
+        "6": null,
+        "7": null,
+        "8": null,
+        "9": null,
+        "10": null,
+        "11": null,
+        "12": null,
+        "13": null,
+        "14": null,
+        "15": null,
+        "16": null,
+        "17": null,
+        "18": null,
+        "19": null,
+        "20": null,
+        "21": null,
+        "22": null,
+        "23": null,
+        "24": null,
+        "25": null,
+        "26": null,
+        "27": null,
+        "28": null,
+        "29": null,
+        "30": null
+    },
+    "stats": {
+        "revenue": 430.0,
+        "vehicles": 8
+    },
+    "history": [
+        {
+            "vehicle": "MH12AB1234",
+            "type": "Bike",
+            "category": "Regular",
+            "hours": 1,
+            "amount": 20,
+            "date": "2026-02-02"
+        },
+        {
+            "vehicle": "MH12DE1234",
+            "type": "SUV",
+            "category": "Emergency",
+            "hours": 1,
+            "amount": 0,
+            "date": "2026-02-02"
+        },
+        {
+            "vehicle": "MH12BC1234",
+            "type": "SUV",
+            "category": "Priority",
+            "hours": 1,
+            "amount": 150,
+            "date": "2026-02-02"
+        },
+        {
+            "vehicle": "MH12AB2345",
+            "type": "SUV",
+            "category": "Priority",
+            "hours": 1,
+            "amount": 150,
+            "date": "2026-02-02"
+        },
+        {
+            "vehicle": "MH12AB1234",
+            "type": "Car",
+            "category": "Regular",
+            "hours": 1,
+            "amount": 50,
+            "date": "2026-02-02"
+        },
+        {
+            "vehicle": "MH12AB1234",
+            "type": "Bike",
+            "category": "Regular",
+            "hours": 1,
+            "amount": 20,
+            "date": "2026-02-02"
+        },
+        {
+            "vehicle": "MH34AB1234",
+            "type": "SUV",
+            "category": "Emergency",
+            "hours": 1,
+            "amount": 0,
+            "date": "2026-02-02"
+        },
+        {
+            "vehicle": "MH12AB1234",
+            "type": "Bike",
+            "category": "Priority",
+            "hours": 1,
+            "amount": 40,
+            "date": "2026-02-02"
+        }
+    ]
+}

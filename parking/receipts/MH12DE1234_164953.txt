@@ -1,0 +1,5 @@
+APEX PARKING RECEIPT
+Vehicle: MH12DE1234
+Type: SUV (Emergency)
+Hours: 1.0
+Amount: ₹0.00

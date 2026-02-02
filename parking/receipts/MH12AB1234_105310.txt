@@ -1,0 +1,7 @@
+APEX PARKING
+------------------
+Vehicle: MH12AB1234
+Type: Normal
+Hours: 1.0
+Amount: Rs 50.00
+------------------

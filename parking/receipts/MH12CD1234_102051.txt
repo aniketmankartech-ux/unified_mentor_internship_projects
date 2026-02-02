@@ -1,0 +1,7 @@
+APEX PARKING
+------------------
+Vehicle: MH12CD1234
+Type: Priority
+Hours: 1.0
+Amount: Rs 75.00
+------------------

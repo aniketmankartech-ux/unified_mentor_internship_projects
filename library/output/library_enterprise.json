@@ -1,0 +1,70 @@
+{
+    "branches": [
+        "Main Downtown",
+        "North Campus",
+        "West End"
+    ],
+    "staff": {
+        "admin": {
+            "name": "Chief Librarian",
+            "pin": "888df25ae35772424a560c7152a1de794440e0ea5cfee62828333a456a506e05",
+            "role": "manager",
+            "branch": "Main Downtown"
+        },
+        "staff01": {
+            "name": "staff",
+            "pin": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+            "role": "staff",
+            "branch": "Main Downtown"
+        }
+    },
+    "books": {
+        "B101": {
+            "title": "Python Machine Learning",
+            "author": "Kelvin",
+            "stock": 9,
+            "branch": "Main Downtown",
+            "barcode": "BC-B101"
+        },
+        "B102": {
+            "title": "Java",
+            "author": "Sunil",
+            "stock": 15,
+            "branch": "Main Downtown",
+            "barcode": "BC-B102"
+        }
+    },
+    "members": {
+        "M01": {
+            "name": "aniket",
+            "email": "aniket@gmail.com"
+        },
+        "M02": {
+            "name": "ajay",
+            "email": "ajay@gmail.com"
+        }
+    },
+    "active_issues": [
+        {
+            "member": "M01",
+            "book_id": "B101",
+            "title": "Python Machine Learning",
+            "date": "2026-01-24",
+            "due": "2026-02-01",
+            "type": "ISSUE"
+        }
+    ],
+    "stats": {
+        "total_fines": 0
+    },
+    "activity_log": [
+        {
+            "member": "M01",
+            "book_id": "B101",
+            "title": "Python Machine Learning",
+            "date": "2026-02-02",
+            "due": "2026-02-09",
+            "type": "ISSUE"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+UNIFIED PARKING RECEIPT
+----------------------
+Vehicle: MH12AB1234
+Type: Bike (Priority)
+Hours: 1.0
+Amount Paid: ₹40.00
+Date: 2026-02-02 17:18:20.486561
