@@ -69,7 +69,7 @@ Hospital-OPD-System/
 ### 🔹 Option 1: Run Using Python
 ```bash
 python app.py
-
+```
 ###🔹 Option 2: Run Directly (Recommended)
 
 Go to output/ folder
@@ -77,6 +77,16 @@ Go to output/ folder
 Run app.exe
 
 No Python required ✅
+
+📸 UI Highlights
+<img width="1907" height="1015" alt="image" src="https://github.com/user-attachments/assets/359371f3-e093-405d-9ae6-2c0454555c04" />
+<img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/8e5e50a8-4ac6-498c-8fbd-2e5cef4e977a" />
+<img width="1912" height="975" alt="image" src="https://github.com/user-attachments/assets/da246114-a24d-447e-9c8b-e1f0ae3305dd" />
+<img width="1914" height="978" alt="image" src="https://github.com/user-attachments/assets/a73c04a7-fa12-46cc-9c90-3587c671dd99" />
+<img width="1910" height="977" alt="image" src="https://github.com/user-attachments/assets/d6b5eec5-dfea-435b-8b50-eccdcaab6055" />
+<img width="1919" height="983" alt="image" src="https://github.com/user-attachments/assets/0b54a04f-39c2-4132-9f1a-64d99e889c7b" />
+<img width="1919" height="983" alt="image" src="https://github.com/user-attachments/assets/8a16a7e1-f77d-4db0-b97b-0010d68472ac" />
+
 
 📌 Notes
 
