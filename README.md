@@ -66,6 +66,18 @@ A real-life restaurant billing and inventory system.
 
 📁 Folder: `restaurant/`
 
+### 5️⃣ 🏥 Unified Hospital Management System
+An OPD-focused hospital system for managing patients, doctors, queues, and appointments.
+
+**Key Highlights**
+- Patient registration
+- Doctor & department management
+- OPD queue system
+- Appointment scheduling
+- Admin dashboard & reports
+
+📁 Folder: `hospital/`
+
 ---
 
 ## ▶️ How to Run the Projects
