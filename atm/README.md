@@ -95,20 +95,24 @@ Unified-Bank-ATM/
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd Unified-Bank-ATM
----
+```
 
 ### 2️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 ### 3️⃣ Run the Application
 ```bash
 python app.py
-
+```
 ## 📦 requirements.txt
 reportlab
 
 📸 UI Highlights
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/3d25b8ea-bab9-4159-9340-2262beb55ae5" />
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/a7a8d807-4e7c-444c-a198-ca3374ecbaa4" />
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/fdbacbff-e0b9-4902-a89e-361dc3358105" />
+
 
 Modern dark-themed interface
 
