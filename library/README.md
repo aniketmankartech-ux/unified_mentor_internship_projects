@@ -93,7 +93,7 @@ Unified-Library-System/
 ### 🔹 Option 1: Run Using Python
 ```bash
 python app.py
-
+```
 ###🔹 Option 2: Run Directly (Recommended)
 
 Go to the output/ folder
@@ -107,6 +107,17 @@ library_db.json
 Double-click app.exe
 
 No Python installation required ✅
+📸 UI Highlights
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/5d0dcd76-5514-4712-8c4b-6cb925055fdf" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/c008e3f8-ad3e-4720-b99a-8947175f48be" />
+<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/0ef6dba6-50cc-4119-8e9d-94646aa85994" />
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/37fe8f5a-63f3-45bd-86a2-98c2c806ddd9" />
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/2442cd9a-2ada-4b27-b735-1704a8a2357e" />
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/b3ab49a8-2235-4499-a766-748848903df5" />
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/6c163143-385b-44c4-9756-622a498000c3" />
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/93c70190-149e-4c86-bc81-2e9157456fb4" />
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/f532adbc-3bfd-480d-8996-3ddbb815eb31" />
+
 
 📌 Notes
 

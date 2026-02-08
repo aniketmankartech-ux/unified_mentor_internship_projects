@@ -19,7 +19,7 @@ A smart parking solution with real-time slot allocation, billing, receipts, staf
 - Automated billing & receipt generation
 - Revenue analytics & CSV export
 
-📁 Folder: `Parking-Management-System/`
+📁 Folder: `parking/`
 
 ---
 
@@ -34,7 +34,7 @@ A secure ATM simulation replicating real banking operations.
 - Mini statement export
 - Admin control for users & PIN reset
 
-📁 Folder: `ATM-Management-System/`
+📁 Folder: `atm/`
 
 ---
 
@@ -49,7 +49,7 @@ A complete digital library system for managing books and members.
 - Transaction history
 - Exportable reports
 
-📁 Folder: `Library-Management-System/`
+📁 Folder: `library/`
 
 ---
 
@@ -64,7 +64,19 @@ A real-life restaurant billing and inventory system.
 - Daily / weekly sales reports
 - Clean POS-style UI
 
-📁 Folder: `Restaurant-POS-System/`
+📁 Folder: `restaurant/`
+
+### 5️⃣ 🏥 Unified Hospital Management System
+An OPD-focused hospital system for managing patients, doctors, queues, and appointments.
+
+**Key Highlights**
+- Patient registration
+- Doctor & department management
+- OPD queue system
+- Appointment scheduling
+- Admin dashboard & reports
+
+📁 Folder: `hospital/`
 
 ---
 
@@ -75,7 +87,7 @@ Make sure Python 3 is installed.
 
 ```bash
 python app.py
-
+```
 ###🔹 Option 2: Run Directly (Recommended)
 
 Each project contains an output/ folder with:
