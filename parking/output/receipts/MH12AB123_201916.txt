@@ -1,0 +1,7 @@
+UNIFIED PARKING RECEIPT
+----------------------
+Vehicle: MH12AB123
+Type: Car (Regular)
+Hours: 1.0
+Amount Paid: ₹50.00
+Date: 2026-02-02 20:19:16.021031

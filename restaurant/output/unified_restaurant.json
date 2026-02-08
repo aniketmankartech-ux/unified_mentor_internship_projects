@@ -21,19 +21,19 @@
         "Drinks": {
             "Soda": [
                 50,
-                50
+                48
             ]
         },
         "Food": {
             "Idli-Sambar": [
                 80.0,
-                99
+                98
             ]
         },
         "Snacks": {
             "Fries": [
                 50.0,
-                200
+                198
             ]
         }
     },
@@ -54,10 +54,32 @@
             ],
             "total": 609.5,
             "cashier": "staff"
+        },
+        {
+            "time": "2026-02-02 20:26",
+            "items": [
+                {
+                    "name": "Soda",
+                    "price": 50.0,
+                    "qty": 2
+                },
+                {
+                    "name": "Idli-Sambar",
+                    "price": 80.0,
+                    "qty": 1
+                },
+                {
+                    "name": "Fries",
+                    "price": 50.0,
+                    "qty": 2
+                }
+            ],
+            "total": 322.0,
+            "cashier": "staff"
         }
     ],
     "stats": {
-        "total_revenue": 609.5,
-        "order_count": 1
+        "total_revenue": 931.5,
+        "order_count": 2
     }
 }

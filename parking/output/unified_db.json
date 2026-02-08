@@ -42,8 +42,8 @@
         "30": null
     },
     "stats": {
-        "revenue": 430.0,
-        "vehicles": 8
+        "revenue": 480.0,
+        "vehicles": 9
     },
     "history": [
         {
@@ -108,6 +108,14 @@
             "category": "Priority",
             "hours": 1,
             "amount": 40,
+            "date": "2026-02-02"
+        },
+        {
+            "vehicle": "MH12AB123",
+            "type": "Car",
+            "category": "Regular",
+            "hours": 1,
+            "amount": 50,
             "date": "2026-02-02"
         }
     ]

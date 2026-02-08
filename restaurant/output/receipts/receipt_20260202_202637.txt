@@ -1,0 +1,11 @@
+UNIFIED RESTAURANT
+------------------------------
+Soda x2 ₹100.00
+Idli-Sambar x1 ₹80.00
+Fries x2 ₹100.00
+------------------------------
+Subtotal: ₹280.00
+GST @15%: ₹42.00
+TOTAL: ₹322.00
+Cashier: staff
+Time: 2026-02-02 20:26
